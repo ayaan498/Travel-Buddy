@@ -3,4 +3,4 @@
 
 ### An interactive interface where users can book tickets to nearby events using a given area.
 
-### Tech Stack: Javascript, Flask, Google Maps API, render(hosting).
+### Tech Stack: Javascript, Flask, Google Maps API
